@@ -1,7 +1,11 @@
 # cpp-misc
 
-Project1 was made in Microsoft Visal Studio
-It contains: 
+Was made in Microsoft Visal Studio
+
+# Project1
+
 Hello world!
+
 Print function
+
 SubString function
